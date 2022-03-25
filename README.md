@@ -17,4 +17,4 @@ After that, it can copy the contents of the folders to a new directory (path) an
 
 ### Issues
 There are a lot. Most methods are not defined well and very specifically were created and used for this project. 
-Biggest problem is with the resolution, which can't be changed. I didn't want to bother calculating the user resolution is perspective to the created images. It can be done though, if you're determined enough and it might not even be a long time.
+Biggest problem is with the resolution, which can't be changed. I didn't want to bother calculating the user resolution in perspective to the created images. It can be done though, if you're determined enough and it might not even be a long time.
