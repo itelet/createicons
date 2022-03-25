@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateIcons", "CreateIcons.csproj", "{677656AC-8314-4715-82D2-512AA0399E34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{677656AC-8314-4715-82D2-512AA0399E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{677656AC-8314-4715-82D2-512AA0399E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{677656AC-8314-4715-82D2-512AA0399E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{677656AC-8314-4715-82D2-512AA0399E34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D9C299E-2AF8-4DFF-89A8-AD815FD8994D}
+	EndGlobalSection
+EndGlobal
